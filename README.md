@@ -1,3 +1,5 @@
-# my_RPI
-Your IP should be here...
-Adding lines to README. This is a repo for demonstrating git and Github. 
+# my-rpi
+
+As of Wed Oct  7 12:45:12 PM PDT 2026, my Raspberry-Pi has the following IP:
+
+- wlan0 : 10.133.0.82 [SSH](ssh://ferree@10.133.0.82) [SFTP](sftp://ferree@10.133.0.82) - Signal strength: 87%
